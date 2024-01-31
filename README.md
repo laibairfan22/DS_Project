@@ -15,8 +15,9 @@ Build the minimum spanning tree incrementally by starting with an arbitrary vert
 
 # How to Run
 To run the project, follow these steps:
+<br>
 Compile the code and run source file
-_** For prims:**_
+## _** For prims:**_
  Data set is given in code if you want to change then write manually in array or make following changes in code: take input from user in that array.
  It gives you shortest path
 
@@ -25,7 +26,7 @@ _** For prims:**_
  
  ![image](https://github.com/laibairfan22/DS_Project/assets/139337014/060c33f1-054d-4543-ba2f-90626bc8bf07)
 
-_** For karuskal:**_
+## _** For karuskal:**_
 Enter data set containing number of edges and vertices of any graph
  It gives you shortest path
 
