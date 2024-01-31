@@ -19,11 +19,18 @@ Compile the code and run source file
 _** For prims:**_
  Data set is given in code if you want to change then write manually in array or make following changes in code: take input from user in that array.
  It gives you shortest path
+
+
+
+ 
  ![image](https://github.com/laibairfan22/DS_Project/assets/139337014/060c33f1-054d-4543-ba2f-90626bc8bf07)
 
 _** For karuskal:**_
 Enter data set containing number of edges and vertices of any graph
  It gives you shortest path
+
+
+ 
  ![image](https://github.com/laibairfan22/DS_Project/assets/139337014/798b0595-5837-4464-8f02-0ca819f11ae0)
 
 
